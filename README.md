@@ -1,2 +1,3 @@
 # Site Connect
- Site do connect
+ Site feito para um ministério, site representativo. 
+ 
